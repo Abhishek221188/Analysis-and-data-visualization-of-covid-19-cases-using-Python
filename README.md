@@ -6,6 +6,7 @@
       novel corona virus. WHO has declared the COVID-19 as a pandemic. A pandemic is 
       defined as disease spread over a wide range of geographical areas and that has affected a 
       high proportion of the population.
+   
       1.2 Aim and Objectives
       Aim
       The aim of the project is to provide data analysis of covid-19 (a pandemic started in 
@@ -33,7 +34,7 @@
       week it can lead to shortness of breath, with about 20% patients requiring hospital 
       treatment.
 
-2. Analysis, Design Methodology and Implementation 
+3. Analysis, Design Methodology and Implementation 
 Strategy
       2.1 Analysis
       In this analysis, we have taken Covid-19 data of World. Analysis is done for India and 
