@@ -38,6 +38,8 @@
 
 3. Analysis, Design Methodology and Implementation 
 Strategy
+
+
       2.1 Analysis
       In this analysis, we have taken Covid-19 data of World. Analysis is done for India and 
       whole world, graphs with highest deaths, confirmed cases are presented.
