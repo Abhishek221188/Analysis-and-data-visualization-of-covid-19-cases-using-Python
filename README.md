@@ -24,7 +24,8 @@
       pandemic. Analysing data leads to adapt the prevention model of the india and world that 
       are doing great in terms of lowering the graph. Predictions are made with the dataset 
       available to the individual/organisations, thus helping them to decide how far they are able 
-      to control the pandemic or up to how much extent they should guide preventive measures
+      to control the pandemic or up to how much extent they should guide preventive measures.
+   
       
       1.4 Literature Review and Prior Art Search (PAS). 
       The corona virus COVID-19 originated from Wuhan, the city in central China. The 
@@ -39,6 +40,8 @@ Strategy
       2.1 Analysis
       In this analysis, we have taken Covid-19 data of World. Analysis is done for India and 
       whole world, graphs with highest deaths, confirmed cases are presented.
+
+   
       2.2 Methodology 
       In our project we have taken live dataset which will be keep on updating on time intervals. 
       Which will be beneficial for us to do analysis using this live data that keeps updating 
@@ -48,6 +51,7 @@ Strategy
       world. So it will do analysis for India and whole world accordingly. Then after we have 
       visualized data in map using calmap and folium libraries where map of India is shown in 
       output containing related details in form of lists and same for whole world.
+   
 
       2.3 Implementation Strategy
       In this project we have worked to analyse the data for India and world for this pandemic 
