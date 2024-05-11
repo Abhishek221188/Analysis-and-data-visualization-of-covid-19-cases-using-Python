@@ -7,6 +7,7 @@
       defined as disease spread over a wide range of geographical areas and that has affected a 
       high proportion of the population.
    
+   
       1.2 Aim and Objectives
       Aim
       The aim of the project is to provide data analysis of covid-19 (a pandemic started in 
