@@ -54,7 +54,4 @@ python main.py
 
 📌 Contributions & License
 
-Contributions welcome! Available under the MIT License.
-
 🔹 Stay Informed, Stay Safe! 🌍
-
