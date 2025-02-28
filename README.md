@@ -52,6 +52,4 @@ Run the script:
 
 python main.py
 
-📌 Contributions & License
-
 🔹 Stay Informed, Stay Safe! 🌍
